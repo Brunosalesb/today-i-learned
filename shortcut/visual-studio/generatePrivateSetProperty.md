@@ -1,7 +1,5 @@
-You can generate this property:
+You can generate a property with private set using ```propg```:
 
-```html
+```
 public int MyProperty { get; private set; }
 ```
-
-using ```propg```
