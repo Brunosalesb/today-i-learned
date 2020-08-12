@@ -3,6 +3,7 @@
 
 - [HTML](https://github.com/Brunosalesb/today-i-learned/tree/master/html)
 - [C#](https://github.com/Brunosalesb/today-i-learned/tree/master/c#)
+- [Javascript](https://github.com/Brunosalesb/today-i-learned/tree/master/javascript)
 - [Node](https://github.com/Brunosalesb/today-i-learned/tree/master/node)
 - [Migration](https://github.com/Brunosalesb/today-i-learned/tree/master/migration)
 - [Shortcut](https://github.com/Brunosalesb/today-i-learned/tree/master/shortcut)
