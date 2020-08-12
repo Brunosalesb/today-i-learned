@@ -1,4 +1,4 @@
-To get unique values in javascript array, you can combine ```filter() + indexOf()```:
+To get unique values in javascript array, you can combine ```filter()``` + ```indexOf()```:
 
 ```
 const unique = (value, index, self) => {
