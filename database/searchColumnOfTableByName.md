@@ -1,4 +1,4 @@
-When you search a column using this query:
+You can search a column using this query:
 
 ```
 SELECT [col.name](http://col.name/) AS 'ColumnName', [tab.name](http://tab.name/) AS 'TableName'
