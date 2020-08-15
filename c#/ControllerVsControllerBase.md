@@ -1,0 +1,1 @@
+```Controller``` derives from ```ControllerBase``` and adds support for views, so it's for handling web pages, not web API requests.
