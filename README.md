@@ -2,7 +2,7 @@
 ### Repository where I'll put everything that I learned while studying something new.
 
 - [HTML](https://github.com/Brunosalesb/today-i-learned/tree/master/html)
-- [C#](https://github.com/Brunosalesb/today-i-learned/tree/master/c#)
+- [C#](https://github.com/Brunosalesb/today-i-learned/tree/master/c%23)
 - [Javascript](https://github.com/Brunosalesb/today-i-learned/tree/master/javascript)
 - [Node](https://github.com/Brunosalesb/today-i-learned/tree/master/node)
 - [Migration](https://github.com/Brunosalesb/today-i-learned/tree/master/migration)
