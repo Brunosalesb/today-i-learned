@@ -1,4 +1,4 @@
-You can get the of a route using:
+You can get the name of a route using:
 
 ```html
 import {useRoute} from '@react-navigation/native';
