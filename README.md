@@ -9,4 +9,5 @@
 - [Docker](https://github.com/Brunosalesb/today-i-learned/tree/master/docker)
 - [Migration](https://github.com/Brunosalesb/today-i-learned/tree/master/migration)
 - [Shortcut](https://github.com/Brunosalesb/today-i-learned/tree/master/shortcut)
+- [GIT](https://github.com/Brunosalesb/today-i-learned/tree/master/git)
 - [Others](https://github.com/Brunosalesb/today-i-learned/tree/master/others)
